@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -30,15 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Pages\\Weather.razor",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Weather.razor",
+              "RelativeToolTip": "Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T09:30:54.013Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Counter.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Pages\\Counter.razor",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Imports.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\_Imports.razor",
               "RelativeDocumentMoniker": "_Imports.razor",
