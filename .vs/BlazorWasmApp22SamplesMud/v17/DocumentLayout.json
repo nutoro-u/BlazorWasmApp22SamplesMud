@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\buttonsandalerts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\buttonsandalerts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,21 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "Pages\\Weather.razor",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Weather.razor",
-              "RelativeToolTip": "Pages\\Weather.razor",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAuwAEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T09:30:54.013Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -56,32 +55,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Pages\\Counter.razor",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Counter.razor",
-              "RelativeToolTip": "Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T09:02:05.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
               "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-14T18:52:36.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -89,23 +75,90 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T18:50:37.729Z"
+              "WhenOpened": "2025-12-14T18:50:37.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",
               "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\wwwroot\\index.html",
               "RelativeToolTip": "wwwroot\\index.html",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-14T18:34:20.428Z"
+              "WhenOpened": "2025-12-14T18:34:20.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor.css",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-15T10:45:29.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonsAndAlerts.razor",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\ButtonsAndAlerts.razor",
+              "RelativeDocumentMoniker": "Pages\\ButtonsAndAlerts.razor",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\ButtonsAndAlerts.razor",
+              "RelativeToolTip": "Pages\\ButtonsAndAlerts.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T10:39:09.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T10:37:17.704Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Pages\\Counter.razor",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Counter.razor",
+              "RelativeToolTip": "Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T09:02:05.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Pages\\Weather.razor",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Weather.razor",
+              "RelativeToolTip": "Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T09:30:54.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_Imports.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\_Imports.razor",
               "RelativeDocumentMoniker": "_Imports.razor",
@@ -113,7 +166,8 @@
               "RelativeToolTip": "_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-14T18:15:13.036Z"
+              "WhenOpened": "2025-12-14T18:15:13.036Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,21 @@
+﻿@page "/buttons_and_alerts"
+
+<PageTitle>ButtonsAndAlerts</PageTitle>
+
+<MudText Typo="Typo.h3" GutterBottom="true">Buttons And Alerts</MudText>
+
+<MudButton Variant="Variant.Filled" Color="Color.Primary">Button</MudButton>
+
+@if (showCallAlert)
+{
+	<MudAlert Severity="Severity.Success" ContentAlignment="HorizontalAlignment.Center" ShowCloseIcon="true" CloseIconClicked="(() => CloseMe(true))">Time to call. Please close me!</MudAlert>
+}
+
+@code {
+	private bool showCallAlert = true;
+
+	private void CloseMe(bool value)
+	{
+		showCallAlert = !value;
+	}
+}
