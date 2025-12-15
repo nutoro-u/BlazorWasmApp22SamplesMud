@@ -7,36 +7,40 @@
       "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\snackbarpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\snackbarpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\buttonsandalerts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\buttonsandalerts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\pages\\buttonsandalerts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:pages\\buttonsandalerts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|e:\\gd\\blazor\\proj\\blazorwasmapp22samplesmud\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86133357-0427-423D-826A-A03A8B75D474}|BlazorWasmApp22SamplesMud.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,66 +59,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Title": "SnackbarPage.razor",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\SnackbarPage.razor",
+              "RelativeDocumentMoniker": "Pages\\SnackbarPage.razor",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\SnackbarPage.razor",
+              "RelativeToolTip": "Pages\\SnackbarPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-14T18:52:36.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T18:50:37.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "index.html",
-              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "wwwroot\\index.html",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\wwwroot\\index.html",
-              "RelativeToolTip": "wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-14T18:34:20.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NavMenu.razor.css",
-              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\NavMenu.razor.css",
-              "RelativeDocumentMoniker": "Layout\\NavMenu.razor.css",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\NavMenu.razor.css",
-              "RelativeToolTip": "Layout\\NavMenu.razor.css",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAAB3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-15T10:45:29.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ButtonsAndAlerts.razor",
-              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\ButtonsAndAlerts.razor",
-              "RelativeDocumentMoniker": "Pages\\ButtonsAndAlerts.razor",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\ButtonsAndAlerts.razor",
-              "RelativeToolTip": "Pages\\ButtonsAndAlerts.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T10:39:09.117Z",
+              "WhenOpened": "2025-12-15T15:34:21.052Z",
               "EditorCaption": ""
             },
             {
@@ -123,9 +75,9 @@
               "Title": "NavMenu.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\NavMenu.razor*",
+              "RelativeToolTip": "Layout\\NavMenu.razor*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-15T10:37:17.704Z",
               "EditorCaption": ""
@@ -145,28 +97,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Weather.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Pages\\Weather.razor",
               "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Weather.razor",
               "RelativeToolTip": "Pages\\Weather.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-15T09:30:54.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T18:52:36.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:50:37.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Imports.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\_Imports.razor",
               "RelativeDocumentMoniker": "_Imports.razor",
               "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\_Imports.razor",
               "RelativeToolTip": "_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-14T18:15:13.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ButtonsAndAlerts.razor",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\ButtonsAndAlerts.razor",
+              "RelativeDocumentMoniker": "Pages\\ButtonsAndAlerts.razor",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\ButtonsAndAlerts.razor",
+              "RelativeToolTip": "Pages\\ButtonsAndAlerts.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T10:39:09.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pages\\Home.razor",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\Pages\\Home.razor",
+              "RelativeToolTip": "Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T14:56:53.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorWasmApp22SamplesMud\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-14T18:34:20.428Z",
               "EditorCaption": ""
             }
           ]

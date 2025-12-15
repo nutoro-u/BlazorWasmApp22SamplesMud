@@ -1,0 +1,14 @@
+﻿@page "/snackbar"
+@inject ISnackbar Snackbar
+
+<PageTitle>Snackbar</PageTitle>
+
+<MudText Typo="Typo.h3" GutterBottom="true">Snackbar</MudText>
+
+<MudButton Variant="Variant.Filled" Color="Color.Primary" @onclick="@(() => Snackbar.Add("Simple Snackbar"))">
+	Open snackbar
+</MudButton>
+
+@code {
+
+}
